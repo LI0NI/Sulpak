@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+
+# чтобы не закидывались на githab
+*.csv
+*.json
